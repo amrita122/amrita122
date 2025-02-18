@@ -28,7 +28,7 @@
 ---
 
 ## 🔝 Top Contributed Repositories  
-[![GitHub Streak](https://streak-stats.demolab.com?user=devmadhup&theme=dark&hide_border=true)](https://github.com/amrita122)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=amrita122&theme=dark&hide_border=true)](https://github.com/amrita122)  
 
 ---
 
